@@ -11,5 +11,5 @@ El código no está completo, por los siguientes motivos:
 Simplemente compilar el código, con g++ por ejemplo:
 ```cpp
 g++ -o exe palabreto.cc
-./palabreto
+./exe
 ```
