@@ -1,7 +1,7 @@
 # Palabreto-Solver
-Solver para el juego web [Palabreto] (https://www.palabreto.com)
+Solver para el juego web [Palabreto](https://www.palabreto.com)
 
-## Nota
+## Notas
 El código no está completo, por los siguientes motivos:
 - El UI es tan solo con consola.
 - El algoritmo a veces encuentra palabras que no están. Se debe a que la elección de palabras de la web es confusa, ya que existe un conjunto de reglas que no aplican siempre
